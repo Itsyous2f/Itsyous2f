@@ -1,0 +1,55 @@
+
+{
+  "projects": [
+    {
+      "id": 2,
+      "title": "Task Management App",
+      "description": "A task management application with abilities to create, update, and delete tasks.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&q=80",
+      "liveUrl": " https://itsyous2f.github.io/task.manager/",
+      "githubUrl": "https://github.com/Itsyous2f/task.manager",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "title": "Flashcard Quiz App",
+      "description": "A flashcard quiz application that helps users learn and memorize information through interactive quizzes.",
+      "technologies": ["Tailwind CSS", "Next.js", "TypeScript", "Shadcn UI"],
+      "image": "https://images.unsplash.com/photo-1729710877311-0e8e70bf820b?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "liveUrl": "https://flashcard-quiz-app-ecru.vercel.app/",
+      "githubUrl": "https://github.com/itsyous2f/flashcard.quiz.app",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Portfolio Website",
+      "description": "A personal portfolio website showcasing projects and skills with smooth animations and responsive design.",
+      "technologies": ["React", "Framer Motion", "Tailwind CSS", "TypeScript"],
+      "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&q=80",
+      "liveUrl": "https://shardnetwork.autos",
+      "githubUrl": "https://github.com/Itsyous2f/Itsyous2f",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Recipe Finder",
+      "description": "A recipe discovery app that helps users find recipes based on ingredients they have, with meal planning features.",
+      "technologies": ["React Native", "Expo", "TypeScript", "Axios", "TheMealDB API"],
+      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80",
+      "liveUrl": "https://github.com/Itsyous2f/Recipe.Finder",
+      "githubUrl": "https://github.com/Itsyous2f/Recipe.Finder",
+      "featured": true
+    },
+    {
+      "id": 6,
+      "title": "Markdown Notes Editor",
+      "description": "A markdown editor with real-time preview, syntax highlighting, and export options built with modern web technologies.",
+      "technologies": ["Next.js", "Shadcn UI", "TypeScript", "Tailwind CSS"],
+      "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "liveUrl": "https://markdown-notes-ruddy.vercel.app/",
+      "githubUrl": "https://github.com/itsyous2f/markdown.notes",
+      "featured": false
+    }
+  ]
+}
